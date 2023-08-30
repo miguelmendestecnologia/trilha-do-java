@@ -1,2 +1,2 @@
-# trinha-do-java
+# trilha-do-java
 Java primeiros pasos.
